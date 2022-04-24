@@ -1,2 +1,0 @@
-print("Initialize Package Mathematics")
-
