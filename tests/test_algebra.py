@@ -1,6 +1,8 @@
 from mathematics.algebra import add
 import pytest
 
+#TDD test drive development, BDD - behavioral drive development
+
 # def test_true():
 #     assert True
 
